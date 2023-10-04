@@ -1,0 +1,47 @@
+*{
+  margin: 0;  
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+    background: #4a6f91;
+    color: #181a3e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: 3px;
+    line-height: 40px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #250b62, 0 0 70px #100741, 0 0 80px #0f074c, 0 0 100px #0c105a, 0 0 150px #10064c;
+    
+
+
+}
+
+p {
+    text-indent: 40px;
+    margin: 30px;
+    text-align: justify;
+}
+
+footer p{
+    background: black;
+    color: azure;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/1a/ce/67/1ace67e0d81eb2fb6fcfe741806f9872.gif);
+    background-size: cover;
+}
+
+main{
+    color: bisque;
+}
